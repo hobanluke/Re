@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'soehne-mono';
+    src: url('/assets/soehne-mono-test-buch.woff'); 
+    font-style: normal;
+    font-weight: 500;
+}
+
+body, html {
+    font-family:  "soehne-mono", Courier, monospace;
+    -webkit-font-smoothing: antialiased; 
+}
+
