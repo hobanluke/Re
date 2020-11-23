@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'soehne-mono';
-    src: url('/assets/soehne-mono-test-buch.woff'); 
+    src: url('./assets/soehne-mono-test-buch.woff'); 
     font-style: normal;
     font-weight: 500;
 }
