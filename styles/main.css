@@ -223,6 +223,7 @@ input[type="submit"]:hover {
     width: 50vw;
     text-align: center;
     top: 10px;
+    color: #727272;
 }
 
 .wrapper{
