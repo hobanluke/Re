@@ -206,11 +206,13 @@ input[type="submit"] {
     border-radius: 20px;
     background-color: #0F0F0F;
     cursor: pointer;
+    transition: .3s;
     
 }
 
 input[type="submit"]:hover {
     opacity: .5;
+    transition: .3s;
     
 }
 .mc-field-group {
@@ -509,10 +511,10 @@ input {
     letter-spacing: 0.05em;
     color: #0F0F0F;
     background: #F7F7F7;
-    width: calc(100vw - 80px);
+    width: calc(100vw - 95px);
 }      
 input[type=text]{
-    width: calc(100vw - 165px);
+    width: calc(100vw - 170px);
     display: inline-block;
     float: left; 
 }    
@@ -522,7 +524,7 @@ input[type="submit"] {
     padding-left: 15px;
     padding-right: 15px;
     float: right; 
-    margin-right: 0%;
+    margin-right: 4%;
     border-radius: 20px;
     background-color: #0F0F0F;
     
