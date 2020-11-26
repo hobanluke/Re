@@ -205,6 +205,7 @@ input[type="submit"] {
     color: #F7F7F7;
     border-radius: 20px;
     background-color: #0F0F0F;
+    cursor: pointer;
     
 }
 
