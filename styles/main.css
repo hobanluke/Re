@@ -216,7 +216,13 @@ input[type="submit"]:hover {
     width: auto;
 }
 
-
+.response {
+    position: fixed;
+    left: 25%;
+    width: 50vw;
+    text-align: center;
+    top: 10px;
+}
 
 .wrapper{
     overflow-x: hidden;
