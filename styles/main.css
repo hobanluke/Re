@@ -137,6 +137,8 @@ p:first-of-type {
 
 .anchor{
     cursor: pointer;
+text-decoration: underline;
+text-decoration-color: #c1c1c1;
     
 }
 
@@ -681,7 +683,7 @@ input[type="submit"] {
     padding-left: 15px;
     padding-right: 15px;
     float: right; 
-    margin-right: 4%;
+    margin-right: 6%;
     border-radius: 20px;
     background-color: #0F0F0F;
     
