@@ -670,10 +670,10 @@ input {
     letter-spacing: 0.05em;
     color: #0F0F0F;
     background: #F7F7F7;
-    width: calc(100vw - 80px);
+    width: calc(100vw - 90px);
 }      
 input[type=text]{
-    width: calc(100vw - 165px);
+    width: calc(100vw - 185px);
     display: inline-block;
     float: left; 
 }    
